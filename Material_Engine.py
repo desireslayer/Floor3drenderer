@@ -1,3 +1,4 @@
+#Material engine
 #Calculates cost-strength scores and assigns materials from the JSON database.
 
 class MaterialEngine:
